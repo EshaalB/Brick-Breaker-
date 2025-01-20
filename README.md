@@ -1,4 +1,4 @@
-# Brick Breaker Game
+# Brick Breaker Game By EshaalB & Michelle 
 
 Brick Breaker is an exciting arcade-style game where the player controls a paddle to bounce a ball and break bricks. The objective is to destroy all the bricks without losing the ball. The game includes power-ups to keep the gameplay engaging.
 
